@@ -6,8 +6,8 @@
 
 Building intelligent systems, scalable web applications, and data-driven solutions.
 
-[Portfolio](YOUR_PORTFOLIO_LINK) •
-[LinkedIn](YOUR_LINKEDIN_LINK) •
+[Portfolio]([YOUR_PORTFOLIO_LINK](https://portfoliodac.vercel.app/)) •
+[LinkedIn]([YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/dhruvaryanchugh/)) •
 [GitHub](https://github.com/Dhruvaryan-10)
 
 </div>
@@ -57,20 +57,7 @@ My interests include:
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 ![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity)
 
----
 
-## Featured Projects
-
-### Solaris
-Real-time Digital Twin simulation of a self-landing rocket using Unity and Arduino.
-
-### Xeno AI Campaign Copilot
-AI-powered CRM platform with audience segmentation, campaign management, and customer intelligence.
-
-### DonorDash
-Donation management platform focused on donor engagement and tracking.
-
----
 
 ## GitHub Analytics
 
@@ -93,8 +80,8 @@ Donation management platform focused on donor engagement and tracking.
 
 ## Connect
 
-📧 your-email@example.com
+📧 your-chughdhruvaryan@gmail.com
 
-💼 LinkedIn: YOUR_LINKEDIN_URL
+💼 LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/dhruvaryanchugh/)
 
-🌐 Portfolio: YOUR_PORTFOLIO_URL
+🌐 Portfolio:[ YOUR_PORTFOLIO_URL](https://portfoliodac.vercel.app/)
