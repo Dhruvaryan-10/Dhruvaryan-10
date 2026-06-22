@@ -6,8 +6,8 @@
 
 Building intelligent systems, scalable web applications, and data-driven solutions.
 
-[Portfolio]([YOUR_PORTFOLIO_LINK](https://portfoliodac.vercel.app/)) •
-[LinkedIn]([YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/dhruvaryanchugh/)) •
+[Portfolio](https://portfoliodac.vercel.app/) •
+[LinkedIn](https://www.linkedin.com/in/dhruvaryanchugh/) •
 [GitHub](https://github.com/Dhruvaryan-10)
 
 </div>
