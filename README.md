@@ -19,7 +19,7 @@
 <img width="100%" src="https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_up.svg" />
 
 <!-- ════════════════════════ ABOUT ════════════════════════ -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;`whoami`
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;`who am i`
 
 ```ts
 const dhruvaryan = {
