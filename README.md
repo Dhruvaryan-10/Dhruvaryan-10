@@ -1,87 +1,104 @@
+<!-- ════════════════════════ HEADER ════════════════════════ -->
 <div align="center">
 
-# Dhruvaryan Chugh
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Dhruvaryan%20Chugh&fontSize=52&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20%C2%B7%20Machine%20Learning%20%C2%B7%20Full-Stack%20%C2%B7%20Data&descAlignY=58&descSize=18&descAlignX=50" />
 
-### AI & Machine Learning • Full-Stack Development • Data Science
+<a href="https://github.com/Dhruvaryan-10">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=00F7FF&center=true&vCenter=true&random=false&width=650&lines=%3E+CS+Student+%7C+AI+%26+ML+Engineer;%3E+Building+intelligent+systems;%3E+Full-Stack+%7C+Next.js+%2B+Python;%3E+Digital+Twins+%26+LLMs" alt="Typing SVG" />
+</a>
 
-Building intelligent systems, scalable web applications, and data-driven solutions.
+<br/>
 
-[Portfolio](https://portfoliodac.vercel.app/) •
-[LinkedIn](https://www.linkedin.com/in/dhruvaryanchugh/) •
-[GitHub](https://github.com/Dhruvaryan-10)
+<a href="https://portfoliodac.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-00F7FF?style=for-the-badge&logo=vercel&logoColor=0f0c29&labelColor=0f0c29" /></a>
+<a href="https://www.linkedin.com/in/dhruvaryanchugh/"><img src="https://img.shields.io/badge/LINKEDIN-FF00E5?style=for-the-badge&logo=linkedin&logoColor=0f0c29&labelColor=0f0c29" /></a>
+<a href="mailto:chughdhruvaryan@gmail.com"><img src="https://img.shields.io/badge/EMAIL-A855F7?style=for-the-badge&logo=gmail&logoColor=0f0c29&labelColor=0f0c29" /></a>
+<img src="https://komarev.com/ghpvc/?username=Dhruvaryan-10&style=for-the-badge&color=00F7FF&labelColor=0f0c29&label=VISITORS" />
 
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_up.svg" />
 
-## About Me
+<!-- ════════════════════════ ABOUT ════════════════════════ -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;`whoami`
 
-I'm a Computer Science student passionate about Artificial Intelligence,
-Machine Learning, Data Science, and Full-Stack Development.
+```ts
+const dhruvaryan = {
+  role:      "CS Student · AI/ML Engineer",
+  focus:     ["Artificial Intelligence", "Machine Learning", "LLMs"],
+  buildingWith: ["Next.js", "Python", "PyTorch", "Node.js"],
+  exploring: ["Digital Twin Technologies", "Data Engineering", "System Design"],
+  openTo:    "Collaboration · Internships · Open Source",
+};
+```
 
-My interests include:
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/Dhruvaryan-10/Dhruvaryan-10/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
-- Artificial Intelligence & Machine Learning
-- Data Analytics & Visualization
-- Full-Stack Web Development
-- System Design & Software Engineering
-- Digital Twin Technologies
+<!-- ════════════════════════ STACK ════════════════════════ -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;`tech --stack`
 
----
+<div align="center">
 
-## Tech Stack
+**Languages**
 
-### Languages
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts&theme=dark" />
 
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+**Frameworks & Libraries**
 
-### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,express,flask&theme=dark" />
 
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwind-css)
+**Databases & Cloud**
 
-### Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,vercel&theme=dark" />
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+**Tools**
 
-### Tools
+<img src="https://skillicons.dev/icons?i=git,github,unity,vscode,docker,linux&theme=dark" />
 
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity)
+</div>
 
+<img width="100%" src="https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_up.svg" />
 
+<!-- ════════════════════════ STATS ════════════════════════ -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21i6C/giphy.gif" width="28"> &nbsp;`git log --stat`
 
-## GitHub Analytics
+<div align="center">
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dhruvaryan-10&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvaryan-10&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Dhruvaryan-10&show_icons=true&hide_border=true&title_color=00F7FF&icon_color=FF00E5&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvaryan-10&layout=compact&hide_border=true&title_color=00F7FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
 
----
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvaryan-10&bg_color=0d1117&color=00f7ff&line=ff00e5&point=ffffff&area=true&area_color=302b63&hide_border=true&custom_title=Contribution%20Activity" />
 
-## Current Focus
+</div>
 
-- Artificial Intelligence & Machine Learning
-- Large Language Models
-- Full-Stack Development
-- Data Engineering
-- Open Source Contributions
+<!-- ════════════════════════ FOCUS ════════════════════════ -->
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;`currently --working-on`
 
----
+<div align="center">
 
-## Connect
+| | |
+|:--|:--|
+| 🧠 | Deep learning experiments & model fine-tuning |
+| 🤖 | Large Language Models and agentic workflows |
+| 🌐 | Full-stack products with Next.js + Python backends |
+| 🧩 | Digital twin simulations in Unity |
+| 🔓 | Open source contributions |
 
-📧 your-chughdhruvaryan@gmail.com
+</div>
 
-💼 LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/dhruvaryanchugh/)
+<img width="100%" src="https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_up.svg" />
 
-🌐 Portfolio:[ YOUR_PORTFOLIO_URL](https://portfoliodac.vercel.app/)
+<!-- ════════════════════════ FOOTER ════════════════════════ -->
+<div align="center">
+
+### `> let's build something` 🚀
+
+<a href="https://portfoliodac.vercel.app/"><img src="https://img.shields.io/badge/🌐_portfoliodac.vercel.app-0f0c29?style=for-the-badge&logoColor=00F7FF" /></a>
+<a href="mailto:chughdhruvaryan@gmail.com"><img src="https://img.shields.io/badge/📧_chughdhruvaryan@gmail.com-0f0c29?style=for-the-badge" /></a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+<i>⭐ From <a href="https://github.com/Dhruvaryan-10">Dhruvaryan-10</a></i>
+
+</div>
