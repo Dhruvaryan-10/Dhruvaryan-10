@@ -19,7 +19,7 @@
 <img width="100%" src="https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_up.svg" />
 
 <!-- ════════════════════════ ABOUT ════════════════════════ -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;`who am i`
+## 🧬 &nbsp;`whoami`
 
 ```ts
 const dhruvaryan = {
@@ -32,11 +32,11 @@ const dhruvaryan = {
 ```
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/Dhruvaryan-10/Dhruvaryan-10/output/github-contribution-grid-snake-dark.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/Dhruvaryan-10/Dhruvaryan-10/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 </div>
 
 <!-- ════════════════════════ STACK ════════════════════════ -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;`tech --stack`
+## ⚡ &nbsp;`tech --stack`
 
 <div align="center">
 
@@ -61,19 +61,27 @@ const dhruvaryan = {
 <img width="100%" src="https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_up.svg" />
 
 <!-- ════════════════════════ STATS ════════════════════════ -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21i6C/giphy.gif" width="28"> &nbsp;`git log --stat`
+## 📊 &nbsp;`git log --stat`
 
 <div align="center">
 
+<img src="https://streak-stats.demolab.com?user=Dhruvaryan-10&theme=highcontrast&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00E5&currStreakLabel=00F7FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
+
+<!--
+  ▼ STATS CARDS — the public github-readme-stats server is currently paused by its
+  owner, so these two images will not load. Deploy your own free instance
+  (see github.com/anuraghazra/github-readme-stats#deploy-on-your-own),
+  then replace github-readme-stats.vercel.app below with YOUR-APP.vercel.app
+  and delete these comment markers.
+
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Dhruvaryan-10&show_icons=true&hide_border=true&title_color=00F7FF&icon_color=FF00E5&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" />
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvaryan-10&layout=compact&hide_border=true&title_color=00F7FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-
-<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvaryan-10&bg_color=0d1117&color=00f7ff&line=ff00e5&point=ffffff&area=true&area_color=302b63&hide_border=true&custom_title=Contribution%20Activity" />
+-->
 
 </div>
 
 <!-- ════════════════════════ FOCUS ════════════════════════ -->
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;`currently --working-on`
+## 🛰️ &nbsp;`currently --working-on`
 
 <div align="center">
 
