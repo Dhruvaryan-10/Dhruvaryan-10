@@ -58,7 +58,6 @@ const dhruvaryan = {
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_up.svg" />
 
 <!-- ════════════════════════ STATS ════════════════════════ -->
 ## 📊 &nbsp;`git log --stat`
@@ -95,7 +94,6 @@ const dhruvaryan = {
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_up.svg" />
 
 <!-- ════════════════════════ FOOTER ════════════════════════ -->
 <div align="center">
