@@ -63,8 +63,9 @@ const dhruvaryan = {
 ## 📊 &nbsp;`git log --stat`
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Dhruvaryan-10&theme=highcontrast&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00E5&currStreakLabel=00F7FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
+<a href="https://git.io/streak-stats">
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
+</a>
 
 <!--
   ▼ STATS CARDS — the public github-readme-stats server is currently paused by its
